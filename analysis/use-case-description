@@ -40,3 +40,4 @@ Example:
 The <<extend>> relationship represents optional or additional functionality that extend a main use case.
 Example:
 -	Create, Edit, Delete Assignment, and View Submissions extend Manage Assignments.
+
