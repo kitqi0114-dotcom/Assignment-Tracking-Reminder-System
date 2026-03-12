@@ -51,11 +51,10 @@ The project follows the Software Development Life Cycle (SDLC) and Agile approac
 - Compile the final report and presentation
 
 ## Repository Structure
-- *requirements/* - product vision, requirements, user stories, stakeholders, trello links, requirements gathering process
-- *analysis/* - use case diagram
-- *design/* - class diagrams, wireframes
+- *planning/* - product vision, requirements, user stories, stakeholders, trello links, requirements gathering process
+- *design/* - related diagrams, wireframes
 - *testing/* - test case
-- *prototype development/* - final prototype and summary
+- *final* - final prototype
 
 ## Tools Used
 - GitHub – project repository and version control
